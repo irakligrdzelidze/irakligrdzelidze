@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irakligrdzelidze
 - 👀 I’m interested in ...web programing
-- 🌱 I’m currently learning ...web markup HTML CSS
+- 🌱 I’m currently learning ...web markup HTML, CSS, Js, Ract
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...twitter @IrakliGrdzelid3
 
